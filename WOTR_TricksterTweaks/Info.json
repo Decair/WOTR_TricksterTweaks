@@ -1,0 +1,13 @@
+{
+	"Id": "WOTR_TricksterTweaks",
+	"DisplayName": "WOTR_TricksterTweaks",
+	"Author": "Decair",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.3",
+	"Requirements": [],
+	"AssemblyName": "WOTR_TricksterTweaks.dll",
+	"EntryMethod": "WOTR_TricksterTweaks.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/Decair/WOTR_TricksterTweaks/main/WOTR_TricksterTweaks/Repository.json",
+	"HomePage": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/##"
+}
+
